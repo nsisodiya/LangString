@@ -20,7 +20,9 @@ LangString.dict = {
 var str = new LangString("HELLO_WORLD");
 
 LangString.langCode = "en-US";
-console.log(str + "");    // HEllo World
+console.log(str + "");    // Hello World
+document.getElementById("text").innerHTML = str;     // Hello World
+
 
 LangString.langCode = "de-DE";
 console.log(str + "");    // Hallo Welt
