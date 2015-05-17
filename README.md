@@ -1,0 +1,2 @@
+# LangString
+LangString
