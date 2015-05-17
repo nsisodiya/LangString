@@ -1,9 +1,6 @@
 # LangString
 LangString, the most simple way for javascript internationalization.
 
-# Demo
-http://jsfiddle.net/nsisodiya/gguL9aax/
-
 # Syntax
 
 ```html
@@ -28,3 +25,6 @@ console.log(str);    // HEllo World
 LangString.langCode = "de-DE";
 console.log(str);    // Hallo Welt
 ```
+
+# Demo
+http://jsfiddle.net/nsisodiya/gguL9aax/
