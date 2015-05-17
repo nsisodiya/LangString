@@ -20,10 +20,10 @@ LangString.dict = {
 var str = new LangString("HELLO_WORLD");
 
 LangString.langCode = "en-US";
-console.log(str);    // HEllo World
+console.log(str + "");    // HEllo World
 
 LangString.langCode = "de-DE";
-console.log(str);    // Hallo Welt
+console.log(str + "");    // Hallo Welt
 ```
 
 # Demo
